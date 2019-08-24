@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_care"
+        android:title="care" />
+    <item
+        android:id="@+id/navigation_memories"
+        android:title="care" />
+    <item
+        android:id="@+id/navigation_notif"
+        android:title="care" />
+    <item
+        android:id="@+id/navigation_profile"
+        android:title="care" />
+</menu>
